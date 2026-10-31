@@ -103,4 +103,4 @@ UPDATA ist noch nicht für einen regelmäßigen, unbeaufsichtigten Betrieb ausge
 
 ## Beispielausgabe
 
-[Newsletter-Beispiel (HTML)](newsletter_test.html)
+[Newsletter-Beispiel (HTML)](newsletter_updata.html)
