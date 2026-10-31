@@ -1,0 +1,17 @@
+# Zugangsdaten
+.Renviron
+.env
+.env.*
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Zwischenergebnisse
+*.rds
+
+# Temporäre Dateien
+*.log
+*.tmp
