@@ -1,4 +1,4 @@
-setwd("C:/Users/Janin/Documents/dataprojects/R/newsletter")
+# Benötigte Pakete ------------------------------------------------
 
 library(tidyRSS)
 library(tibble)
