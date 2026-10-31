@@ -100,3 +100,7 @@ UPDATA ist bisher ein Prototyp mit einigen Einschränkungen.
 Die grundlegende Pipeline von der Artikelerfassung bis zur HTML-Ausgabe ist umgesetzt.
 
 UPDATA ist noch nicht für einen regelmäßigen, unbeaufsichtigten Betrieb ausgelegt.
+
+## Beispielausgabe
+
+[Newsletter-Beispiel (HTML)](newsletter_test.html)
