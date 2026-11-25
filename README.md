@@ -1,6 +1,6 @@
 # UPDATA – Ein automatisierter Datenjournalismus-Newsletter
 
-UPDATA ist ein kleines Projekt, das ich entwickelt habe, um meine Kenntnisse in R zu vertiefen und erste Erfahrungen mit Web-Scraping und der Anbindung einer KI-API zu sammeln.
+UPDATA ist ein Projekt, das ich entwickelt habe, um meine Kenntnisse in R zu vertiefen und erste Erfahrungen mit Web-Scraping und der Anbindung einer KI-API zu sammeln.
 
 Die Idee: Ein Newsletter, der aktuelle datenjournalistische Veröffentlichungen deutscher Nachrichtenmedien sammelt und übersichtlich zusammenstellt.
 
